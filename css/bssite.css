@@ -1,0 +1,17 @@
+.list-group-item:hover {
+    background-color: #3A5A40;
+    cursor: pointer
+}
+
+.list-group-item {
+    width: 100%;
+    background-color: #A3B18A;
+}
+body {
+    background-color: #588157;
+}
+
+.card {
+    width: 100%;
+    background-color: #A3B18A;
+}
